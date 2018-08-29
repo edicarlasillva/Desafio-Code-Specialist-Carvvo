@@ -5,7 +5,7 @@ Desafio Code Specialist Carvvo
 
 - Utilizando todos os conhecimentos necessários de HTML5, CSS3 e Bootstrap implemente o layout que está na pasta "template", apenas a página inicial (HOME);
 - Use o Wordpress + WooCommerce para tornar o conteúdo dinâmico;
-- Após a conclusão do desafio, nos envie o link do projeto funcionando ou utilize o plugin "All-in-One WP Migration" para exportar o backup e nos envie o arquivo.  
+- Após a conclusão do desafio, nos envie o link do projeto funcionando ou utilize o plugin "All-in-One WP Migration" para exportar o backup.  
 
 ## Explicando o layout
 
