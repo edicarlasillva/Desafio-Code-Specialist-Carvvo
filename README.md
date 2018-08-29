@@ -3,7 +3,7 @@ Desafio Code Specialist Carvvo
 
 ## Como funciona o desafio
 
-- Utilizando todos os conhecimentos necessários de HTML5, CSS3 e Bootstrap e implemente o layout que está na pasta "template", apenas a página inicial (HOME);
+- Utilizando todos os conhecimentos necessários de HTML5, CSS3 e Bootstrap implemente o layout que está na pasta "template", apenas a página inicial (HOME);
 - Torne o conteúdo dinâmico usando o Wordpress + WooCommerce para tornar o conteúdo dinâmico;
 - Após a conclusão do desafio, nos envie o link do projeto funcionando ou utilize o plugin "All-in-One WP Migration" para exportar o backup e nos envie o arquivo.  
 
